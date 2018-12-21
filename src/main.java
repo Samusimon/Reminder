@@ -13,7 +13,7 @@ import javax.swing.table.DefaultTableModel;
  */
 /**
  *
- * @author appuz
+ * @author sam
  */
 public class main extends javax.swing.JFrame {
     Connection c=null;
